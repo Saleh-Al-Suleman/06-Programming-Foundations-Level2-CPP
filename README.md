@@ -9,8 +9,8 @@ The goal of this repository is to master advanced C++ concepts—such as debuggi
 
 | Folder | Topic / Concept | Status |
 | :--- | :--- | :---: |
-| 🐞 **[01-Debugging](./01-Debugging)** | Mastering Visual Studio debugging tools, breakpoints, call stack, and memory inspection. | 🔄 In Progress |
-| ⚙️ **[02-Functions-Advanced](./02-Functions-Advanced)** | Function declaration vs. definition, default parameters, overloading, and recursion. | ⏳ Pending |
+| 🐞 **[01-Debugging](./01-Debugging)** | Mastering Visual Studio debugging tools, breakpoints, call stack, and memory inspection. | ✅ Completed |
+| ⚙️ **[02-Functions-Advanced](./02-Functions-Advanced)** | Function declaration vs. definition, default parameters, overloading, and recursion. | 🔄 In Progress |
 | 🖨️ **[03-Printing-Formatting](./03-Printing-Formatting)** | Advanced formatting with `printf`, `setw`, and `iomanip` manipulators. | ⏳ Pending |
 | 📊 **[04-Arrays-Advanced](./04-Arrays-Advanced)** | Two-dimensional arrays and multi-dimensional data handling. | ⏳ Pending |
 | 📦 **[05-Vectors](./05-Vectors)** | Dynamic arrays using `std::vector`, adding/removing elements, and vector iterators. | ⏳ Pending |
@@ -32,6 +32,10 @@ The goal of this repository is to master advanced C++ concepts—such as debuggi
 
 ## 🚀 Lesson Implementations & Outputs
 
-*(Add your notable practice examples and screenshots here as you progress)*
+- **Lessons #01 to #07 - Mastering Visual Studio Debugging:**
+  Practiced tracking program execution, inspecting runtime memory state, modifying variable values live, and stepping through functions (`F10`, `F11`, `Shift+F11`) using Visual Studio debugging tools.
 
-- **Lesson #XX - [Lesson Name]:** Brief description of what the code does and the C++ concept applied.
+  <img width="1920" height="1080" alt="#1To#7" src="https://github.com/user-attachments/assets/ddc68cab-e5b2-4203-b946-5624fcd81a54" />
+
+  
+

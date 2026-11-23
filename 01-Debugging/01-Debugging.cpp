@@ -3,10 +3,43 @@
 
 #include <iostream>
 
+using namespace std;
+
+int MySum(int a, int b)
+{
+    int s = 0;
+    s = a + b;
+    return s;
+}
+
 int main()
 {
-    std::cout << "Hello World!\n";
+    int arr1[5] = { 200, 100, 50, 25, 30 };
+    int a, b, c;
+
+    a = 10;
+    b = 20;
+    a++;
+    ++b;
+
+    c = a + b;
+
+    cout << "a = " << a << endl;
+    cout << "b = " << b << endl;
+    cout << "c = " << c << endl;
+
+    for (int i = 1; i <= 5; i++)
+    {
+        cout << "Loop i = " << i << endl;
+        a = a + a * i;
+    }
+
+    c = MySum(a, b);
+    cout << "Final c = " << c << endl;
+
+    return 0;
 }
+
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
