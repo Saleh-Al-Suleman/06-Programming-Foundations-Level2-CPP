@@ -1,2 +1,37 @@
-# 06-Programming-Foundations-Level2-CPP
-Practice code, notes, and implementations for Course 06: Programming Foundations Level 2 (C++) - Programming Advices.
+# 06 - Programming Foundations Level 2 (C++)
+
+This repository contains my practice code, notes, and implementations for the **06 - Programming Foundations Level 2 (C++)** course from [Programming Advices](https://programmingadvices.com).
+
+## 🎯 Purpose
+The goal of this repository is to master advanced C++ concepts—such as debugging, memory management, pointers, vectors, and file handling—and track my continuous progress lesson by lesson.
+
+## 📂 Repository Structure & Topics
+
+| Folder | Topic / Concept | Status |
+| :--- | :--- | :---: |
+| 🐞 **[01-Debugging](./01-Debugging)** | Mastering Visual Studio debugging tools, breakpoints, call stack, and memory inspection. | 🔄 In Progress |
+| ⚙️ **[02-Functions-Advanced](./02-Functions-Advanced)** | Function declaration vs. definition, default parameters, overloading, and recursion. | ⏳ Pending |
+| 🖨️ **[03-Printing-Formatting](./03-Printing-Formatting)** | Advanced formatting with `printf`, `setw`, and `iomanip` manipulators. | ⏳ Pending |
+| 📊 **[04-Arrays-Advanced](./04-Arrays-Advanced)** | Two-dimensional arrays and multi-dimensional data handling. | ⏳ Pending |
+| 📦 **[05-Vectors](./05-Vectors)** | Dynamic arrays using `std::vector`, adding/removing elements, and vector iterators. | ⏳ Pending |
+| 🧠 **[06-References-Pointers](./06-References-Pointers)** | Call by value vs. reference, pointers arithmetic, pointers with arrays, structs, and functions. | ⏳ Pending |
+| 💾 **[07-Dynamic-Memory](./07-Dynamic-Memory)** | Dynamic memory allocation (`new` and `delete`) for variables and arrays. | ⏳ Pending |
+| 📝 **[08-Strings-And-Files](./08-Strings-And-Files)** | String object methods, `cctype` functions, and reading/writing/updating text files (`fstream`). | ⏳ Pending |
+| 🕒 **[09-Date-And-Time](./09-Date-And-Time)** | Working with local/UTC date and time structures (`ctime`). | ⏳ Pending |
+
+---
+
+## 💡 Key Concepts & Takeaways
+* **Memory Management:** Understanding the difference between Stack and Heap memory, and preventing memory leaks.
+* **Pointers & References:** Direct memory access and efficient data passing without unnecessary copying.
+* **Data Structures:** Transitioning from static arrays to dynamic `std::vector` containers.
+* **File I/O:** Persisting data permanently using file streams (`ios::in`, `ios::out`, `ios::app`).
+* **Clean Code & Libraries:** Creating custom header files (`.h`) to organize reusable functions.
+
+---
+
+## 🚀 Lesson Implementations & Outputs
+
+*(Add your notable practice examples and screenshots here as you progress)*
+
+- **Lesson #XX - [Lesson Name]:** Brief description of what the code does and the C++ concept applied.
