@@ -37,5 +37,9 @@ The goal of this repository is to master advanced C++ concepts—such as debuggi
 
   <img width="1920" height="1080" alt="#1To#7" src="https://github.com/user-attachments/assets/ddc68cab-e5b2-4203-b946-5624fcd81a54" />
 
+- **Lesson #08 - Custom Header Library (`MyLib.h`):**
+  Created a reusable custom header file using `#pragma once` and a dedicated `namespace` to organize and call modular functions across projects.
+
+    <img width="863" height="178" alt="Lesson#8" src="https://github.com/user-attachments/assets/5d76e1e5-9162-43fc-a8f6-eb4b40b1afac" />
   
 
