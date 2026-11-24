@@ -42,4 +42,29 @@ The goal of this repository is to master advanced C++ concepts—such as debuggi
 
     <img width="863" height="178" alt="Lesson#8" src="https://github.com/user-attachments/assets/5d76e1e5-9162-43fc-a8f6-eb4b40b1afac" />
   
+- **Lessons #09 to #13 - Core Language Enhancements & Input Validation:**
+  Practiced modern C++ syntax and low-level operators, including:
+  * **Ternary Operator (`? :`):** Writing concise single-line and nested conditional expressions.
+
+      <img width="1085" height="229" alt="Positive_Status" src="https://github.com/user-attachments/assets/218a3821-c8c2-4bf2-ab5c-82fa77e48114" />
+
+      <img width="1076" height="188" alt="status_Zero" src="https://github.com/user-attachments/assets/6b414bb7-e921-4099-8d4e-ebb08ee703a9" />
+
+      <img width="1075" height="231" alt="Status_Negative" src="https://github.com/user-attachments/assets/6b3a31b0-b832-48c7-a991-bfb046d15ae1" />
+    
+  * **Ranged Loops (`for-each`):** Safely iterating over arrays and initializer lists without index bounds errors.
+
+    <img width="1094" height="382" alt="lesson#10" src="https://github.com/user-attachments/assets/1c688514-1c94-4a07-920a-353ab02463ea" />
+
+    
+  * **Input Validation (`cin.fail()`):** Built a reusable `ReadNumber()` function in `MyLib.h` using `cin.clear()` and `cin.ignore()` to prevent crashes on invalid non-numeric input.
+
+     <img width="1084" height="240" alt="lesson#11" src="https://github.com/user-attachments/assets/cba54bca-80ed-4de8-9c09-4ebe34cd7b49" />
+
+    
+  * **Bitwise Operators (`&`, `|`):** Differentiating binary bit-level operations from logical operators (`&&`, `||`).
+
+     <img width="1064" height="149" alt="Lesson#12" src="https://github.com/user-attachments/assets/71a0a27a-3760-4767-a6c0-12ed8c410d4b" />
+
+     <img width="1097" height="174" alt="Lesson#13" src="https://github.com/user-attachments/assets/824acd28-aebe-45e9-8a27-7d0580b85403" />
 
