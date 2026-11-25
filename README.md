@@ -68,3 +68,24 @@ The goal of this repository is to master advanced C++ concepts—such as debuggi
 
      <img width="1097" height="174" alt="Lesson#13" src="https://github.com/user-attachments/assets/824acd28-aebe-45e9-8a27-7d0580b85403" />
 
+- **Lessons #14 to #19 - Advanced Functions & Recursion:**
+  Explored function architecture, compile-time polymorphism, call stack behavior, and recursive algorithms:
+
+  * **Function Declaration vs. Definition:** Separating function prototypes above `main()` from implementations below for cleaner code structure.
+
+     <img width="1047" height="126" alt="Lesson#14" src="https://github.com/user-attachments/assets/731719d9-72ea-4714-a514-88c89455aec3" />
+
+  * **Default Parameters:** Designing flexible functions with optional right-to-left default arguments.
+
+      <img width="827" height="166" alt="Lesson#15" src="https://github.com/user-attachments/assets/3b7205ad-b112-4f64-8103-bd4bce571889" />
+
+  * **Function Overloading:** Implementing multiple functions sharing the same name with distinct parameter signatures (`int`, `double`, and varying argument counts).
+
+      <img width="647" height="189" alt="Lesson#16" src="https://github.com/user-attachments/assets/432d8fb0-4ff7-4f1c-b325-d7753d60325d" />
+
+  * **Call Stack, Call Hierarchy & VS Function Tips:** Inspecting runtime function execution order (`LIFO`) and accelerating navigation using Visual Studio shortcuts (`F12`, `Alt+F12`, `Alt+Enter`).
+ 
+  * **Recursion:** Solving repetitive problems—such as ascending/descending number sequences and power calculation (`MyPower`)—using recursive base cases.
+
+      <img width="1104" height="308" alt="Lesson#19" src="https://github.com/user-attachments/assets/3ce822e3-482d-48b1-a5a7-f25ac47af1d3" />
+
