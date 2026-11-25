@@ -10,8 +10,8 @@ The goal of this repository is to master advanced C++ concepts—such as debuggi
 | Folder | Topic / Concept | Status |
 | :--- | :--- | :---: |
 | 🐞 **[01-Debugging](./01-Debugging)** | Mastering Visual Studio debugging tools, breakpoints, call stack, and memory inspection. | ✅ Completed |
-| ⚙️ **[02-Functions-Advanced](./02-Functions-Advanced)** | Function declaration vs. definition, default parameters, overloading, and recursion. | 🔄 In Progress |
-| 🖨️ **[03-Printing-Formatting](./03-Printing-Formatting)** | Advanced formatting with `printf`, `setw`, and `iomanip` manipulators. | ⏳ Pending |
+| ⚙️ **[02-Functions-Advanced](./02-Functions-Advanced)** | Function declaration vs. definition, default parameters, overloading, and recursion. | ✅ Completed |
+| 🖨️ **[03-Printing-Formatting](./03-Printing-Formatting)** | Advanced formatting with `printf`, `setw`, and `iomanip` manipulators. | 🔄 In Progress |
 | 📊 **[04-Arrays-Advanced](./04-Arrays-Advanced)** | Two-dimensional arrays and multi-dimensional data handling. | ⏳ Pending |
 | 📦 **[05-Vectors](./05-Vectors)** | Dynamic arrays using `std::vector`, adding/removing elements, and vector iterators. | ⏳ Pending |
 | 🧠 **[06-References-Pointers](./06-References-Pointers)** | Call by value vs. reference, pointers arithmetic, pointers with arrays, structs, and functions. | ⏳ Pending |
